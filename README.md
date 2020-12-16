@@ -7,3 +7,5 @@ https://www.scmagazine.com/home/security-news/smbs-assaulted-by-mercenary-deaths
 https://cyware.com/news/deathstalker-apt-attacked-smbs-with-cyber-espionage-tools-0476b9ef
 
 https://securelist.com/deathstalker-mercenary-triumvirate/98177/
+
+https://malwaretips.com/threads/deathstalker-apt-spices-things-up-with-powerpepper-malware.105497/
