@@ -9,3 +9,5 @@ https://cyware.com/news/deathstalker-apt-attacked-smbs-with-cyber-espionage-tool
 https://securelist.com/deathstalker-mercenary-triumvirate/98177/
 
 https://malwaretips.com/threads/deathstalker-apt-spices-things-up-with-powerpepper-malware.105497/
+
+https://securelist.com/what-did-deathstalker-hide-between-two-ferns/99616/
