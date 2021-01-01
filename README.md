@@ -11,3 +11,5 @@ https://securelist.com/deathstalker-mercenary-triumvirate/98177/
 https://malwaretips.com/threads/deathstalker-apt-spices-things-up-with-powerpepper-malware.105497/
 
 https://securelist.com/what-did-deathstalker-hide-between-two-ferns/99616/
+
+https://www.securityweek.com/hack-hire-group-deathstalker-uses-new-backdoor-recent-attacks
