@@ -13,3 +13,5 @@ https://malwaretips.com/threads/deathstalker-apt-spices-things-up-with-powerpepp
 https://securelist.com/what-did-deathstalker-hide-between-two-ferns/99616/
 
 https://www.securityweek.com/hack-hire-group-deathstalker-uses-new-backdoor-recent-attacks
+
+https://blog.malwarebytes.com/cybercrime/2022/06/immigration-organisations-targeted-by-apt-group-evilnum/
