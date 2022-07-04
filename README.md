@@ -15,3 +15,5 @@ https://securelist.com/what-did-deathstalker-hide-between-two-ferns/99616/
 https://www.securityweek.com/hack-hire-group-deathstalker-uses-new-backdoor-recent-attacks
 
 https://blog.malwarebytes.com/cybercrime/2022/06/immigration-organisations-targeted-by-apt-group-evilnum/
+
+https://www.zscaler.com/blogs/security-research/return-evilnum-apt-updated-ttps-and-new-targets
