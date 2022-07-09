@@ -17,3 +17,5 @@ https://www.securityweek.com/hack-hire-group-deathstalker-uses-new-backdoor-rece
 https://blog.malwarebytes.com/cybercrime/2022/06/immigration-organisations-targeted-by-apt-group-evilnum/
 
 https://www.zscaler.com/blogs/security-research/return-evilnum-apt-updated-ttps-and-new-targets
+
+https://www.prevailion.com/phantom-in-the-command-shell-2/?utm_source=substack&utm_medium=email
