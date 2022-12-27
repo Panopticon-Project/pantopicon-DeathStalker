@@ -21,3 +21,5 @@ https://www.zscaler.com/blogs/security-research/return-evilnum-apt-updated-ttps-
 https://www.prevailion.com/phantom-in-the-command-shell-2/?utm_source=substack&utm_medium=email
 
 https://securelist.com/vilerat-deathstalkers-continuous-strike/107075/
+
+https://securelist.com/deathstalker-targets-legal-entities-with-new-janicab-variant/108131/
